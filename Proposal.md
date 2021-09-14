@@ -8,3 +8,8 @@
 
 ## Backend free app host (Heroku)
 
+## Data host (Atlas MongoDB)
+
+## Front-end page plan (single-page web app (SPA))
+
+## Front-end responsive design (Bootstrap)
