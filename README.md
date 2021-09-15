@@ -1,4 +1,4 @@
-# Proposal for Topic-of-the-Day
+# Proposal for Habit Remainder
 
 We are proposing the technology stack based on Spring Boot Framework and backend with JAVA.
 
