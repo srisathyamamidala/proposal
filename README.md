@@ -1,4 +1,4 @@
-# Proposal for Habit Remainder
+# Proposal for Habit Reminder
 
 We are proposing the technology stack based on Spring Boot Framework and backend with JAVA.
 
