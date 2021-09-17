@@ -21,18 +21,22 @@ End of semester GDP-1
 ## GDP-2
 
 #### Sprint 5 (start date: 12th January 2022 - End date: 25th January 2022)
+Creating the data base and ER diagram
 
 #### Sprint 6 (start date: 25th January 2022 - End date: 8th February 2022)
+Design API's
 
 #### Sprint 7 (start date: 8th February 2022 - End date: 24th February 2022)
+Design the UI pages
 
-#### Sprint 8 (start date: 24th February 2022 - End date: 8th March 2022)
+#### Sprint 8 (start date: 24th February 2022 - End date: 10th March 2022)
+Review UI sketches with client.
 
-#### Sprint 9 (start date: 8th March 2022 - End date: 22nd March 2022)
+#### Sprint 9 (start date: 11th March 2022 - End date: 25 March 2022)
+Testing and fixing the issues
 
-#### Sprint 10 (start date: 18th March 2022 - End date: 31st March 2022)
-
-#### Sprint 11 (start date: 31st March 2022 - End date: 15th April 2022)
+#### Sprint 10 (start date: 25th March 2022 - End date: 15th April 2022)
+Implementation and Deployment
 
 ## Backend language + framework (Java / Spring (or Spring Boot))
 
