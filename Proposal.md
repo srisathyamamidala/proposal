@@ -53,8 +53,9 @@ We have 2 developers and each deverloper is charged 60$ per hour.
 * This work will be done in sprint 8,9 as per the above schedule.
 
 ## Data host (Atlas MongoDB)
-
+* This work will be done in sprint 5 as per the above schedule.
 
 ## Front-end page plan (single-page web app (SPA))
-
+* This work will be done in sprint 2, 3 and 7 as per the above schedule.
 ## Front-end responsive design (Bootstrap)
+* This work will be done in sprint 2, 3 and 7 as per the above schedule.
