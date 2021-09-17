@@ -1,8 +1,20 @@
 # Proposal for Topic-of-the-Day
 
-- Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint).
-- Budget is set by the size of the development team * average expected hours per developer per week.
-- Scope of work should be clearly divided into sprint buckets of time.
+### Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint).
+
+## GDP-1
+
+##### Sprint 1 (start date: 18th september 2021 - End date: 3rd october 2021)
+
+##### Sprint 2 (start date: 3rd october 2021 - End date: 16th october 2021)
+
+##### Sprint 3 (start date: 16th october 2021 - End date: 31st october 2021)
+
+##### Sprint 4 (start date: 31st october 2021 - End date: 15th November 2021)
+
+End of semester GDP-1
+
+
 
 ## Backend language + framework (Java / Spring (or Spring Boot))
 
