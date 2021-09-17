@@ -7,3 +7,5 @@ Spring Boot Framework is a popular Java Enterprise Edition (Java EE) framework f
 Spring Boot is developed by Pivotal team and it's used to create stand-alone and production-ready spring apps.
 
 [Link for RFP](https://github.com/NaveenTanuku/HabitRemainder/blob/main/rfp.md)
+
+[Proposal Link](https://github.com/srisathyamamidala/proposal/blob/main/Proposal.md)
