@@ -5,12 +5,16 @@
 ## GDP-1
 
 #### Sprint 1 (start date: 18th september 2021 - End date: 3rd october 2021)
+In sprint 1, we gather all of the essential requirements and making the plan.
 
 #### Sprint 2 (start date: 3rd october 2021 - End date: 16th october 2021)
+In sprint 2, Modifying the requirements and working on the plan.
 
 #### Sprint 3 (start date: 16th october 2021 - End date: 31st october 2021)
+In Sprint 3, Using React to create mockups and UI designs.
 
 #### Sprint 4 (start date: 31st october 2021 - End date: 15th November 2021)
+Working with the authorization and authentication.
 
 End of semester GDP-1
 
