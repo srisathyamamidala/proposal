@@ -1,4 +1,4 @@
-# Proposal for Topic-of-the-Day
+# Proposal for Habit Reminder
 
 ### Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint).
 
