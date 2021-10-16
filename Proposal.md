@@ -46,7 +46,7 @@ We have 2 developers and each deverloper is charged 60$ per hour.
 | Prasanna Arla | 60$ | Front end developer | 8 | 1700$-1800$ |
 | Sri Sathya Mamidala|60$| Back end developer | 8 | 1700$-1800$ |
 
-## Backend language + framework (Java / Spring (or Spring Boot))
+## Backend language + framework (JavaScript and Nodejs)
 * This work will be done in sprint 6 and sprint 7 as per the above schedule.
 
 ## Backend free app host (Heroku)
