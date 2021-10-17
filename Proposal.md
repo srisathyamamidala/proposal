@@ -59,3 +59,8 @@ We have 2 developers and each deverloper is charged 60$ per hour.
 * This work will be done in sprint 2, 3 and 7 as per the above schedule.
 ## Front-end responsive design (Bootstrap)
 * This work will be done in sprint 2, 3 and 7 as per the above schedule.
+
+## Signatures of the Developers
+
+
+![Signature](https://user-images.githubusercontent.com/77756728/137642483-72e12d3f-86c5-470e-890d-b9cee89930ef.jpeg)
