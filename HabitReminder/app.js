@@ -10,7 +10,7 @@ if(userData.trim() != 0){// if user values are'nt only spaces
     addBtn.classList.add("active"); // active the add button
 }
 else{
-    addBtn.classList.remove("active"); // active the add button
+    addBtn.classList.remove("active"); // unactive the add button
 
 }
 }
@@ -21,7 +21,7 @@ addBtn.onClick = ()=>{
     let userData = inputBox.value; // getting user entered value
     let getLocalStorage = localStorage.getItem("New Habit");// getting localstorage
     if(getLocalStorage == null)//if localstorage is null
-    if(getLocalStorage == null)//if localstorage is null
+   
 {
    listArr = []; // creating blank array
 }else{
