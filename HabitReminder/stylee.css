@@ -14,7 +14,7 @@ body{
     margin: 120px auto;
     max-width: 400px;
     width: 100%;
-    background: #fff;
+    background: rgb(255, 255, 255);
     border-radius: 5px;
     padding: 25px
 }
@@ -44,7 +44,7 @@ body{
     height: 100%;
     border: none;
     outline: none;
-    background: #8e49e8;
+    background: #db49e8;
     color: #fff;
     font-size: 22px;
     cursor: pointer;
@@ -101,12 +101,12 @@ body{
 .footer button{
     border: none;
     outline: none;
-    background: #8e49E8;
-    color: #fff;
+    background: #49e89e;
+    color: rgb(255, 255, 255);
     font-size: 16px;
     cursor: pointer;
     border-radius: 3px;
-    padding: 6px 10px;
+    padding: 7px 10px;
     opacity: 0.6;
     pointer-events: none;
 }
